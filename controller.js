@@ -1,5 +1,5 @@
 var points = 0;
-var pointsPerClick = 1000;
+var pointsPerClick = 1;
 var smileyIndex = 0;
 
 
