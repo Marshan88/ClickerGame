@@ -28,7 +28,7 @@ function whatAjoke() {
     if (points < 1000) return
     points = 0;
     pointsPerClick = 0;
-    alert(`The programmer's wife sent him to the grocery store. Her instructions were: "buy milk. See if they have eggs. If they do, buy 10". So he went to the store and got back home with 10 packs of milk. When the wife asked why, he said: "they had eggs"`)
+    alert(`Why did the programmer quit his job? ..Because he didn't get arrays.`)
     updateView();
     }
 
